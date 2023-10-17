@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.1, created on 2023-10-17 20:07:24
+/* Smarty version 4.3.1, created on 2023-10-17 20:19:33
   from 'C:\wamp\www\admidio\adm_themes\simple\templates\index.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.1',
-  'unifunc' => 'content_652e9c248c9bf3_24365373',
+  'unifunc' => 'content_652e9efd64aaf6_39503499',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '4d51b58a77bb21f7458c3184ec1024a6d85f2b99' => 
     array (
       0 => 'C:\\wamp\\www\\admidio\\adm_themes\\simple\\templates\\index.tpl',
-      1 => 1697553442,
+      1 => 1697553469,
       2 => 'file',
     ),
   ),
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:cookie_note.tpl' => 1,
   ),
 ),false)) {
-function content_652e9c248c9bf3_24365373 (Smarty_Internal_Template $_smarty_tpl) {
+function content_652e9efd64aaf6_39503499 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!DOCTYPE html>
 <html>
 <head>
