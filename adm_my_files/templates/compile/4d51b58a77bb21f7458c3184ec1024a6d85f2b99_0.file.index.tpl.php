@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.1, created on 2023-10-11 16:27:00
+/* Smarty version 4.3.1, created on 2023-10-17 20:07:24
   from 'C:\wamp\www\admidio\adm_themes\simple\templates\index.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.1',
-  'unifunc' => 'content_65267f7c3cfc80_09788033',
+  'unifunc' => 'content_652e9c248c9bf3_24365373',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '4d51b58a77bb21f7458c3184ec1024a6d85f2b99' => 
     array (
       0 => 'C:\\wamp\\www\\admidio\\adm_themes\\simple\\templates\\index.tpl',
-      1 => 1697020750,
+      1 => 1697553442,
       2 => 'file',
     ),
   ),
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:cookie_note.tpl' => 1,
   ),
 ),false)) {
-function content_65267f7c3cfc80_09788033 (Smarty_Internal_Template $_smarty_tpl) {
+function content_652e9c248c9bf3_24365373 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!DOCTYPE html>
 <html>
 <head>
@@ -109,7 +109,7 @@ function content_65267f7c3cfc80_09788033 (Smarty_Internal_Template $_smarty_tpl)
 /images/admidio_logo.png"
                 alt="<?php echo $_smarty_tpl->tpl_vars['l10n']->value->get('SYS_ADMIDIO_SHORT_DESC');?>
 " title="<?php echo $_smarty_tpl->tpl_vars['l10n']->value->get('SYS_ADMIDIO_SHORT_DESC');?>
-">
+" height="55px" width="190px">
         </a>
         <span id="headline-organization" class="d-block d-lg-none"><?php echo $_smarty_tpl->tpl_vars['organizationName']->value;?>
 </span>
@@ -217,7 +217,7 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
 ?>
                     <?php }?>
 
-                    <div id="imprint">Powered by <a href="https://www.admidio.org">Admidio</a> &copy; Admidio Team
+                    <div id="imprint"><a></a>
                         <?php if ($_smarty_tpl->tpl_vars['urlImprint']->value != '') {?>
                             &nbsp;&nbsp;-&nbsp;&nbsp;<a href="<?php echo $_smarty_tpl->tpl_vars['urlImprint']->value;?>
 "><?php echo $_smarty_tpl->tpl_vars['l10n']->value->get('SYS_IMPRINT');?>

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.1, created on 2023-10-11 16:48:48
+/* Smarty version 4.3.1, created on 2023-10-17 18:09:59
   from 'C:\wamp\www\admidio\adm_themes\simple\templates\overview.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.1',
-  'unifunc' => 'content_65268498c4d9c5_87501930',
+  'unifunc' => 'content_652e809f43d856_47523870',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'bad764a51ce8fec8b8990a0e6be9819bbd436190' => 
     array (
       0 => 'C:\\wamp\\www\\admidio\\adm_themes\\simple\\templates\\overview.tpl',
-      1 => 1697023127,
+      1 => 1697546397,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_65268498c4d9c5_87501930 (Smarty_Internal_Template $_smarty_tpl) {
+function content_652e809f43d856_47523870 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\wamp\\www\\admidio\\adm_program\\system\\smarty-plugins\\function.load_admidio_plugin.php','function'=>'smarty_function_load_admidio_plugin',),));
 ?>
 
